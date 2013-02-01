@@ -5,4 +5,5 @@ coverage
 .yardoc
 .DS_Store
 log/
+output/
 
