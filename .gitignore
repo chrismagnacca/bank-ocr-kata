@@ -1,0 +1,8 @@
+.idea/*
+rdoc
+coverage
+.bundle
+.yardoc
+.DS_Store
+log/
+
