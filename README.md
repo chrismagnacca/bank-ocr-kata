@@ -1,6 +1,6 @@
-# BankOCR Kata
+    # BankOCR Kata
 
-An implementation of User Stories 1,2,3 [BankOCR Code Kata](http://codingdojo.org/cgi-bin/wiki.pl?KataBankOCR)  
+An implementation of User Stories 1,2,3 [BankOCR Code Kata](http://codingdojo.org/cgi-bin/wiki.pl?KataBankOCR) from Coding Dojo
 
 ## Problem Description
 
